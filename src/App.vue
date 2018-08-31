@@ -40,6 +40,7 @@ export default {
     position: absolute;
     width: 100%;
     padding-bottom: 70px;
+    height: 100%;
   }
 
 </style>
